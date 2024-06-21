@@ -9,7 +9,7 @@ using namespace std;
 
 const char *HOST = "localhost";
 const char *USER = "root";
-const char *PW = "<password>";   //Replace <password> with your password for MySQL
+const char *PW = "<password>";   
 const char *DB = "Movie";
 
 class Seats
